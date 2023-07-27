@@ -1,0 +1,109 @@
+.header{
+    height: 100%;
+        background-color: white;
+        border: 3px solid black;
+        margin-top: 20px;
+        margin-left: 20px;
+        margin-right: 10px;
+        margin-bottom: 20px;
+}
+.a{
+    position: relative;
+    width:23%;
+    float:left;
+    background-color: burlywood;
+    border: 3px solid black;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+.b{
+    height: 334px;
+    width: 90%;
+    background-color: red;
+    border: 3px solid black;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 20px;
+}
+.c{
+    height: 200px;
+    width: 85%;
+    background-color: lightskyblue;
+    border: 3px solid black;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 10px;
+}
+.d{
+    position: relative;
+   width:46%;
+    background-color: yellow;
+    border: 3px solid black;
+    margin-top: 10px;
+    margin-left: 305px;
+    
+    margin-bottom: 10px;
+}
+.e{
+    height: 520px;
+    width: 95%;
+    background-color: yellow;
+    border: 3px solid black;
+    margin-top: 30px;
+    margin-left: 10px;
+    margin-right: 5px;
+    margin-bottom: 30px;
+}
+.f{
+    height: 160px;
+    width: 95%;
+    background-color: black;
+    border: 3px solid black;
+    margin-top: 20px;
+    margin-left: 10px;
+    margin-right: 5px;
+    margin-bottom: 20px;
+}
+.g{
+    height: 300px;
+    width: 95%;
+    background-color: black;
+    border: 3px solid black;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 5px;
+    margin-bottom: 30px;
+}
+.h{
+   position: relative;
+  
+    width:27%;
+    background-color: burlywood;
+    border: 3px solid black;
+    margin-top: -602px;
+    margin-left: 880px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+.i{
+    height: 344px;
+    width: 90%;
+    background-color: red;
+    border: 3px solid black;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+.j{
+    height: 200px;
+    width: 85%;
+    background-color: lightskyblue;
+    border: 3px solid black;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 10px;
+}
